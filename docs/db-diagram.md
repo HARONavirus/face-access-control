@@ -2,7 +2,7 @@
 
 ## Диаграма:
 
-![Диаграма базы данных]()
+![Диаграма базы данных](https://github.com/HARONavirus/face-access-control/blob/main/images/db_diagram.png)
 
 ## Пояснения и дополнительные детали:
 
